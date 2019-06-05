@@ -1,6 +1,6 @@
-developer.lifeid.io
+developer.Knocknock
 -------------------------
-This repo was forked from [Slate](https://github.com/lord/slate). The `master` branch is left unchanged so it can be synced with the upstream repo. The default branch for this repo is `lifeid`, and contains changes specific to lifeID. The `gh-pages` branch is what is actually served by Github when people visit https://developer.lifeid.io. This is the branch is updated via the Slate tools.
+This repo was forked from [Slate](https://github.com/lord/slate). The `master` branch is left unchanged so it can be synced with the upstream repo. The default branch for this repo is `knocknock`, and contains changes specific to knocknock. The `gh-pages` branch is what is actually served by Github when people visit https://developer.Knocknock This is the branch is updated via the Slate tools.
 
 Getting Started
 ---------------------
@@ -14,8 +14,8 @@ You're going to need:
 
 ### Getting Set Up
 
-1. Clone this repo with `git clone https://github.com/lifeID/developer.lifeid.io.git`
-2. `cd developer.lifeid.io`
+1. Clone this repo with `git clone https://github.com/KnocknockNet/developer.developer.Knocknock.git`
+2. `cd developer.Knocknock`
 3. Serving things locally so you can see you changes:
 
 ```shell
